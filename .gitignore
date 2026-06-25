@@ -1,0 +1,12 @@
+# local tooling
+.claude/
+
+# CRM / source data — not part of the public site
+/Crm TAN
+*.pptx
+*.pdf
+
+# unused original assets (clean copies are used: car.jpg, logo.webp, car-audio.m4a)
+WhatsApp Image*
+cropped-*
+_*.m4a
