@@ -10,3 +10,8 @@
 WhatsApp Image*
 cropped-*
 _*.m4a
+
+# multi-car landing pages → deployed as a separate repo (tani-cars)
+/sites/
+/_gen.py
+/דפי נחיתה/
